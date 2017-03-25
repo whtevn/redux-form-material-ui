@@ -1,4 +1,4 @@
-import { RadioButtonGroup } from 'material-ui/RadioButton'
+import { RadioButtonGroup } from 'material-ui/Radio'
 import createComponent from './createComponent'
 import mapError from './mapError'
 
